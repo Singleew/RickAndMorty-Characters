@@ -1,0 +1,39 @@
+
+/* Class = "UIBarButtonItem"; title = "Prev"; ObjectID = "0k2-bN-85m"; */
+"0k2-bN-85m.title" = "Пред";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "24l-Ot-s6e"; */
+"24l-Ot-s6e.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GZe-wy-z4m"; */
+"GZe-wy-z4m.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "HT3-3b-pXQ"; */
+"HT3-3b-pXQ.title" = "След";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kbf-Em-L7d"; */
+"Kbf-Em-L7d.text" = "Label";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "LKI-8L-gcJ"; */
+"LKI-8L-gcJ.text" = "Статус";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "QcU-Uf-cCH"; */
+"QcU-Uf-cCH.text" = "Пол";
+
+/* Class = "UILabel"; text = "Last Location"; ObjectID = "WlC-ZM-XE7"; */
+"WlC-ZM-XE7.text" = "Последняя локация";
+
+/* Class = "UINavigationItem"; title = "RICK & MORTY"; ObjectID = "bQg-1i-t25"; */
+"bQg-1i-t25.title" = "RICK & MORTY";
+
+/* Class = "UILabel"; text = "Species"; ObjectID = "eN4-n0-Nko"; */
+"eN4-n0-Nko.text" = "Раса";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "eRl-aL-9fC"; */
+"eRl-aL-9fC.text" = "Имя";
+
+/* Class = "UILabel"; text = "Episodes"; ObjectID = "hD2-CA-hpc"; */
+"hD2-CA-hpc.text" = "Эпизод";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "mz5-Dc-WWR"; */
+"mz5-Dc-WWR.text" = "Детальная информация";
